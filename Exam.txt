@@ -1,0 +1,28 @@
+<<========== Topics ==========>>
+1. Agile 4 values and 12 principles.
+2. Scrum - MVP (Minimum Viable Product) / increment
+3. DSDM and its Principles (8 Principle)
+4. Agile Vs Waterlfal
+5. Extreme Programming
+
+<<========== Questions ==========>>
+1. How is agile methodology different from traditional software development methodology ? (Waterfall ad and disad, agile ad and disad, conclusion)
+2. Explain the process of software development under scrum methodology?
+3. Explain Agile Menifesto?
+4. Explain advantages of TDD and BDD (add and disad)?
+5. List all the events of scrum. What is the purpose of using burndown chart?
+6. Explain the roles in scrum.
+7. Expain the TDD and BDD process. (https://www.softwaretestinghelp.com/tdd-vs-bdd/)
+8. Write Notes (5 or 3 mark):
+	1. Planning Pokker
+	2. Velocity
+	3. User story mapping
+	4. CICD (Continuous Integration Continuous Development)
+	5. Sprint Backlog
+	6. Product Backlog
+	7. Daily Standup
+	8. Task 
+	9. Epic
+	10. Integration testing
+9. Many teams use kanban board. how this can be used to increase productivity? Explain with diagrams (Kanban Board, Visibility, simplicity, product incresement, https://kashyapsandeep.medium.com/what-is-kanban-and-how-can-it-be-used-to-increase-productivity-51c68a852736)
+10. What is agile testing? Explain the principle of agile testings.

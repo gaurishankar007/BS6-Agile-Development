@@ -1,0 +1,35 @@
+Sprint Planning
+1. One spring plainning meeting for every Sprint.
+2. One or two hour of sprint planning meeting.
+3. During sprint plainning meeting, features are brought to sprint backlog from product backlog.
+4. If any features that the team can not implement instantly and require some research, 
+   then the features can be put back into the product backlogpp from the sprint backlog
+5. Once the features are fixed in the sprint backlog and it is done, the it can not be 
+   put back to the product backlog
+6. All the features in the sprint backlog most be completed within the sprint time period.
+
+Daily scrum meeting
+1. 15 minutes of daily meeting, 3 questions
+2. what did we do yersterday, what will be done tomorrow, and what are the problems occured
+
+Backlog Grooming Meeting
+1. Two grooming meetings per two month
+2. Product backlogs can be changed during the first meeting
+3. Sir will change some requirements during the second meeting
+
+Sprint Review
+1. Review the work of sprint backlog.
+2. One hour of meeting per week.
+3. Only completed works will be shown not the uncompleted works.
+
+Sprint Retrospective
+1. Reflect on how the team worked together
+2. Do not show weakness
+3. what went well during the sprint?
+4. What did not go well? 
+5. what could be done for better improvement of product in the next sprint.
+
+Product Backlog
+- Critical and high priority user stories (Red Color)
+- low priorirty user stories (green Color)
+- middle priority user stories (yellow Color)

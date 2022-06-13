@@ -1,0 +1,36 @@
+<=====Reflective Report=====>
+1. Introduction
+2. Team Psychology
+	1. Team (how team was formed?)
+	2. Team Performance
+	3. Conflict Management
+	4. Leadership
+	5. Team Work
+3. Communication
+	1. Team Communication
+	2. Communication Theory
+	3. Issues of Communication
+4. Agile Process
+	1. Our team (Excel screenshot and team member roles)
+	2. Agile User Story
+	3. Product Backlog
+	4. Map Board
+	5. Release Plan
+	6. Sprint Planning and Sprint Backlog
+	7. Daily Standup
+	8. Sprint Review
+	9. Retro
+	10. Why Scrum
+5. Conclusion
+6. Links
+7. Referencing
+
+<===== Reflective Report =====>
+Technical Report
+	Detailed analysis comparing a range of different Git Workflows showing
+	understanding of their application plus pros and cons.
+
+Automated Testing
+	Detailed analysis of how the system architecture impacted the effectiveness of
+	both functional non-functional tests. 
+	

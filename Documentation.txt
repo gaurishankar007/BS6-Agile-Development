@@ -1,0 +1,126 @@
+<=====Reflective Report=====>
+1. Introduction
+2. Team Psychology
+	1. Team (how team was formed?)
+	2. Team Performance
+	3. Conflict Management
+	4. Leadership
+	5. Team Work
+3. Communication
+	1. Team Communication
+	2. Communication Theory
+	3. Issues of Communication
+4. Agile Process
+	1. Our team (Excel screenshot and team member roles)
+	2. Agile User Story
+	3. Product Backlog
+	4. Map Board
+	5. Release Plan
+	6. Sprint Planning and Sprint Backlog
+	7. Daily Standup
+	8. Sprint Review
+	9. Retro
+	10. Why Scrum
+5. Conclusion
+6. Links
+7. Referencing
+
+<===== Reflective Report =====>
+Technical Report
+	Detailed analysis comparing a range of different Git Workflows showing
+	understanding of their application plus pros and cons.
+
+Automated Testing
+	Detailed analysis of how the system architecture impacted the effectiveness of
+	both functional non-functional tests. 
+
+# Documentation
+
+- Technical Report - 20marks - 2000 word
+- Reflective Report - 20marks - 3500 word
+- Exam - 40marks
+- Viva - 20marks
+
+## Reflective Report
+
+- Introduction
+
+Scrum master servant leader bhaera kam garo
+
+### Team Psychology
+
+- Team
+- Team Performance
+- Conflict management
+- leadership
+- team work
+
+### Communication
+
+- Team communication
+- Communication Theory
+- Issues of communication
+
+### Agile Process
+
+- Our team
+    
+    Excel sheet wala first page. Point ma scrum master, po ra development team lae k k kam garo.
+    
+- Agile user story
+    
+    Screen shot rakhnu paro. 
+    
+- Product backlog
+    
+    Kasto priority set garo. kina color haru different bhao
+    
+- Map Board
+- Release Plan
+- Sprint planning and sprint backlog
+    
+    Estimated hour ra actual hour ko explain garne. sprint planning gareko teams meeting ko screenshot rakhne. Team member ko photo auunu parxa.
+    
+- Daily standup
+    
+    Daily standup meeting ko screenshot rakhne. Teams member ko photo aaunu parxa.
+    
+- Sprint review
+- Retro
+- Why scrum
+    
+    scrum nai thik xa ki. yeslae ajjai improve garnu parxa.
+    
+- Conclucsion
+
+Excel sheet ra trello ko link rakhne clickable banaera rakhne.
+
+<aside>
+💡 Jun kura ko screenshot hudaina tesko marks aaudaina
+
+</aside>
+
+## Technial Report
+
+- Git (version control ko barema ma detail ma lekhxam.
+    
+    kasto workflow use garo
+    
+    kasari implement gareu.
+    
+    screenshot rakhnu paro
+    
+- Automated tesing
+    
+    Testing kasari gareu
+    
+    TDD BDD kasari garue.
+    
+    3-4 ota 3-4ota screen shot rakhne
+    
+- Conclusion
+
+last ma github ko link ra video ko link. video (max-10mins)
+
+Figma ko screenshot pani rakhnu parxa. XD ko link share gare ni hunxa yedi screenshot rakhna jahu lagyo bhane.
+	

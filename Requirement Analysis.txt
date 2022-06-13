@@ -1,0 +1,12 @@
+=> As a User, I want to sign up in the system, so that I can access the system to rent boats.
+=> As a User, I want to view all the boats photos, and videos, So that I will have clear idea of the boat.
+=> As an admin, I want to store all the boats the company owns, So that It will be clear that which boats belongs to which company.
+=> As an admin, I want to store all the customers who have previously rented the boats, 
+
+
+Admin
+Customer
+
+1. Sign Up
+2. Store company boats
+3. Store boats hire by the company
