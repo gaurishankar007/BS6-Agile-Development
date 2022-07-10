@@ -1,0 +1,20 @@
+## Technial Report
+- Git (version control ko barema ma detail ma lekhxam.) 1000 Word Anil Thapa Magar
+    
+    kasto workflow use garo
+    
+    kasari implement gareu.
+    
+    screenshot rakhnu paro
+    
+- Automated tesing 800 word Shikar Manandhar
+    
+    Testing kasari gareu
+    
+    TDD BDD kasari garue.
+    
+    3-4 ota 3-4ota screen shot rakhne
+    
+- Conclusion 200 word (Gauri Shankar Sharma)
+
+last ma github ko link ra video ko link. video (max-10mins)

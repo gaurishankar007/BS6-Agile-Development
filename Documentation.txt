@@ -1,28 +1,28 @@
 <=====Reflective Report=====>
-1. Introduction
-2. Team Psychology
+1. Introduction (300 - 400) {Gauri Shankar Sharma} Why made the application
+2. Team Psychology (700 - 800) {Shikhar manandhar}
 	1. Team (how team was formed?)
 	2. Team Performance
 	3. Conflict Management
 	4. Leadership
 	5. Team Work
-3. Communication
-	1. Team Communication
+3. Communication (500 - 600) {Sanjaya Thapa}
+	1. Team Communication (which communication theory is used)
 	2. Communication Theory
 	3. Issues of Communication
-4. Agile Process
-	1. Our team (Excel screenshot and team member roles)
-	2. Agile User Story
-	3. Product Backlog
-	4. Map Board
-	5. Release Plan
-	6. Sprint Planning and Sprint Backlog
-	7. Daily Standup
-	8. Sprint Review
-	9. Retro
-	10. Why Scrum
-5. Conclusion
-6. Links
+4. Agile Process (1400 - 1500) 150 per one topic
+	1. Our team (Excel screenshot and team member roles) {Rupendra Pun}
+	2. Agile User Story {Rupendra Pun}
+	3. Product Backlog {Rupendra Pun}
+	4. Map Board {Rupendra Pun}
+	5. Release Plan {Nishan Bhat}
+	6. Sprint Planning and Sprint Backlog {Nishan Bhat}
+	7. Daily Standup {Nishan Bhat}
+	8. Sprint Review {Nishan Bhat}
+	9. Retro {Sanjaya Thapa}
+	10. Why Scrum {Sanjaya Thapa}
+5. Conclusion (150 -200) {Gauri Shankar Sharma}
+6. Links (Links of trello, Prototype)
 7. Referencing
 
 <===== Reflective Report =====>
@@ -102,7 +102,7 @@ Excel sheet ra trello ko link rakhne clickable banaera rakhne.
 
 ## Technial Report
 
-- Git (version control ko barema ma detail ma lekhxam.
+- Git (version control ko barema ma detail ma lekhxam.) 
     
     kasto workflow use garo
     
